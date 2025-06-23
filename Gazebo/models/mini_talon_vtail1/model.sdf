@@ -312,7 +312,7 @@
       </visual> -->
 
       <!-- Sensors. -->
-   <visual name='camera_viz'>
+      <visual name='camera_viz'>
         <pose>0.35 0 0 0 0 0</pose>
         <geometry>
           <box>
