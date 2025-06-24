@@ -120,6 +120,12 @@
       <uri>model://mini_talon_vtail2</uri>
     </include>
 
+    <include>
+      <pose degrees="true">2.5 -7 0.05 0 0 90</pose>
+      <uri>model://qr</uri>
+    </include>
+
+
 
   </world>
 </sdf>
